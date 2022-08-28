@@ -1,0 +1,25 @@
+*{
+    background-color:rgb(226, 247, 240) ;
+}
+.review{
+    width: 18rem;
+    height: 20;
+    border:3px solid rgb(209, 209, 224) ;
+   align-items: center;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    padding: 20px;
+}
+.card-body,.author,.job,.info{
+
+}
+.prev-btn,.next-btn{
+    border: none;
+   
+}
+.random-btn{
+    border: none;
+    color: rgb(48, 172, 172);
+    background-color: aquamarine;
+}
